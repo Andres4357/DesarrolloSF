@@ -10,5 +10,7 @@ package prueba2;
  * @author Andres
  */
 public class Colcha_luis {
-    
+    public static void main(String[] args) {
+        
+    }
 }
