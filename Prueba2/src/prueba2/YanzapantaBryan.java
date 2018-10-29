@@ -9,9 +9,8 @@ package prueba2;
  *
  * @author Bryan
  */
-public class Yanzapanta_Bryan {
-    
-    
-    
-    
+public class YanzapantaBryan {
+    public static void main(String[] args) {
+        System.out.println("asdsadas");
+    }
 }
