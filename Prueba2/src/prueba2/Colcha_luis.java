@@ -9,8 +9,8 @@ package prueba2;
  *
  * @author Andres
  */
-public class Colcha_Luis {
+public class Colcha_luis {
     public static void main(String[] args) {
-        System.out.println("Que fue");
+        
     }
 }
